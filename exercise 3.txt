@@ -1,0 +1,1 @@
+One way to access the text ?le content is to read the content.
